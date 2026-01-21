@@ -18,3 +18,8 @@ function as(){
 }
 var ans = as();
 console.log(ans);
+
+
+//async js coding
+// when the code is run line by lined then we say its synchorons
+// jo bhi code async nature ka ho,usey side stack mein bhej do and agle code ko chalo jo bhi async ka ho , jab bhi saara sync code chl jaaye,tab check karo ki assync code complete hua hai ya ni and agr bo complete  hua to usse main stack me le aao and chala do
